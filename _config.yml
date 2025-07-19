@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ali
 middle_name:
 last_name: Marashian
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Quietly building bridges between worlds, one word at a time. (Is this too much?)
-footer_text: >
+#footer_text: >
   
 keywords: marashian, ali marashian, low resource machine translation # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -48,7 +48,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -261,8 +261,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Marashian]
+  first_name: [Ali]
 
   style: apa
   locale: en
