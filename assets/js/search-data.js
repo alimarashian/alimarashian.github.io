@@ -42,16 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-passed-my-area-exam-smile-it-was-titled-meditations-on-the-available-resouces-for-low-resource-neural-machine-transltion",
+            },},{id: "news-i-passed-my-area-exam-smile-it-was-titled-meditations-on-the-available-resouces-for-low-resource-neural-machine-transltion",
           title: 'I passed my area exam :smile: It was titled “Meditations on the Available...',
+          description: "",
+          section: "News",},{id: "news-i-presented-the-findings-of-the-shared-task-machine-translation-metrics-for-indigenous-languages-in-americasnlp-2025",
+          title: 'I presented the findings of the shared task “Machine Translation Metrics for Indigenous...',
           description: "",
           section: "News",},{
         id: 'social-email',
