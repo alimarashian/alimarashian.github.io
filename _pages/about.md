@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>Univrsity of Colorado Boulder</a>
+subtitle: <a>University of Colorado Boulder</a>
 
 profile:
   align: right
