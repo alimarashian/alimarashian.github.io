@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-the-findings-of-the-shared-task-machine-translation-metrics-for-indigenous-languages-in-americasnlp-2025",
           title: 'I presented the findings of the shared task “Machine Translation Metrics for Indigenous...',
           description: "",
+          section: "News",},{id: "news-our-paper-titled-massively-multilingual-joint-segmentation-and-glossing-got-accepted-into-acl-2026-main-conference",
+          title: 'Our paper titled “Massively Multilingual Joint Segmentation and Glossing” got accepted into ACL...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
